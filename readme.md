@@ -7,6 +7,9 @@ iOS | Android
  :--:| :-----:
  ![ios-demo](https://github.com/GeekyAnts/NativeBase-KitchenSink/raw/master/screenshots/iOS.gif) | ![android-demo](https://github.com/GeekyAnts/NativeBase-KitchenSink/raw/master/screenshots/Android.gif)
 
+![demo](./expoqr.png)
+
+Scan the QR with Expo app to open the demo
 
 ## Description
 
